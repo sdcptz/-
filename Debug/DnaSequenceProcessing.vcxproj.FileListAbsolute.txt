@@ -1,0 +1,4 @@
+D:\研究生课件\桌面应用程序2\DnaSequenceProcessing\Debug\Denome  Termini Analysis.exe
+D:\研究生课件\桌面应用程序2\DnaSequenceProcessing\Debug\Denome  Termini Analysis.pdb
+C:\病毒组测序\DnaSequenceProcessing\Debug\PhageGT.exe
+C:\病毒组测序\DnaSequenceProcessing\Debug\PhageGT.pdb
